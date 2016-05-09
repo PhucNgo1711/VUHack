@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">AYLMAO</string>
+    <string name="action_logout">Log Out</string>
+    <!--<string name="action_search">Search</string>-->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_joboptions">Job Options</string>
+    <string name="nav_item_preferences">Preferences</string>
+    <string name="nav_item_nfc">NFC</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_joboptions</item>
+        <item>@string/nav_item_preferences</item>
+        <item>@string/nav_item_nfc</item>
+    </string-array>
+
+    <string name="title_joboptions">Job Options</string>
+    <string name="title_preferences">Preferences</string>
+    <string name="title_home">Home</string>
+    <string name="title_nfc">NFC</string>
+
+    <string name="tab_finances">Finances</string>
+    <string name="tab_weather">Weather</string>
+    <string name="tab_career">Career</string>
+    <string name="tab_location">Location</string>
+
+    <!--Parse-->
+    <string name="login">Log in</string>
+    <string name="signup">Sign up</string>
+    <string name="slogan">Helping you make a big decision.</string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_login">Log in</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="radiolabel_male">Male</string>
+    <string name="radiolabel_female">Female</string>
+    <string name="prompt_firstname">First Name</string>
+    <string name="prompt_lastname">Last Name</string>
+    <string name="prompt_age">Age</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_again">Password Again</string>
+    <string name="error_intro">"Please "</string>
+    <string name="error_blank_firstname">enter a first name</string>
+    <string name="error_blank_lastname">enter a last name</string>
+    <string name="error_blank_age">enter an age</string>
+    <string name="error_blank_username">enter a username</string>
+    <string name="error_blank_password">enter a password</string>
+    <string name="error_mismatched_passwords">enter the same password twice</string>
+    <string name="error_join">", and "</string>
+    <string name="error_end">.</string>
+    <string name="progress_login">Logging you in&#8230;</string>
+    <string name="progress_signup">Signing you up&#8230;</string>
+</resources>
